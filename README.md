@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishutheplayer" alt="vishutheplayer" /></a> </p>
 
-- 🌱 I’m currently learning **Python And C++**
+- 🌱 I’m currently learning **Dsa And Full-Stack Web Development**
 
 - 💬 Ask me about **Python**
 
