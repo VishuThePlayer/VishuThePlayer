@@ -26,8 +26,8 @@
 - Web Development & Animation Tricks ✨
 
 ### 📫 Reach Me
-- LinkedIn: [Your LinkedIn](#)  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
+- LinkedIn: [https://www.linkedin.com/in/vitthal-bissa](#)  
+- Email: [vishubissa.s@gmail.com](mailto:vishubissa.s@gmail.com])  
 
 ---
 
