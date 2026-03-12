@@ -15,22 +15,6 @@
 
 ---
 
-### 🌱 Currently Learning
-- Full-Stack Web Development (React, Node.js, MongoDB)
-- Advanced Data Structures & Algorithms
-- Modern UI/UX Design
-
-### 💬 Ask Me About
-- Python 🐍
-- C++ 💻
-- Web Development & Animation Tricks ✨
-
-### 📫 Reach Me
-- LinkedIn: [https://www.linkedin.com/in/vitthal-bissa](#)  
-- Email: [vishubissa.s@gmail.com](mailto:vishubissa.s@gmail.com])  
-
----
-
 ### 🔥 Languages & Tools
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
